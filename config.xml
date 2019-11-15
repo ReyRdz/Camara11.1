@@ -13,6 +13,7 @@
   <plugin name="cordova-plugin-camera"/>
   <plugin name="cordova-plugin-media-capture"/>
   <plugin name="org.apache.cordova.camera"/>
+  <plugin name="Camera" value="org.apache.cordova.CameraLauncher" />
   <access origin="*" />
   <allow-intent href="http://*/*" />
   <allow-intent href="https://*/*" />
